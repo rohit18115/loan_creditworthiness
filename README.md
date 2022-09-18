@@ -53,10 +53,11 @@ Both were completed in seperate jupyter notebooks named TASK-1 and TASK-2. All t
 
 ## The correct way to go through the tasks:
 
-1. Open the HTML file
-2. Go through the index or list of question given in both the files for the tasks
-3. The index and questions are properly hyperlinked to the respective sections which will save your time and help you navigate to the important sections quickly.
-4. The html files and jupyternotebooks are self sufficeint and properly documented, hence seperate documentation is redundant and not necessary. 
+1. Clone the repository to your computer, otherwise the hyperlinks in the html files or jupyter notebooks wont work properly.
+2. Open the HTML file
+3. Go through the index or list of question given in both the files for the tasks
+4. The index and questions are properly hyperlinked to the respective sections which will save your time and help you navigate to the important sections quickly.
+5. The html files and jupyternotebooks are self sufficeint and properly documented, hence seperate documentation is redundant and not necessary. 
 
 
 Thanks and Regards 
